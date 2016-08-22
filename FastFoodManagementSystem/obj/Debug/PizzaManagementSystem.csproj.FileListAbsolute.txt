@@ -1,0 +1,10 @@
+c:\users\raihan\documents\visual studio 2013\Projects\PizzaManagementSystem\PizzaManagementSystem\bin\Debug\PizzaManagementSystem.exe.config
+c:\users\raihan\documents\visual studio 2013\Projects\PizzaManagementSystem\PizzaManagementSystem\obj\Debug\PizzaManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\raihan\documents\visual studio 2013\Projects\PizzaManagementSystem\PizzaManagementSystem\obj\Debug\PizzaManagementSystem.Form1.resources
+c:\users\raihan\documents\visual studio 2013\Projects\PizzaManagementSystem\PizzaManagementSystem\obj\Debug\PizzaManagementSystem.Properties.Resources.resources
+c:\users\raihan\documents\visual studio 2013\Projects\PizzaManagementSystem\PizzaManagementSystem\obj\Debug\PizzaManagementSystem.csproj.GenerateResource.Cache
+c:\users\raihan\documents\visual studio 2013\Projects\PizzaManagementSystem\PizzaManagementSystem\bin\Debug\PizzaManagementSystem.exe
+c:\users\raihan\documents\visual studio 2013\Projects\PizzaManagementSystem\PizzaManagementSystem\bin\Debug\PizzaManagementSystem.pdb
+c:\users\raihan\documents\visual studio 2013\Projects\PizzaManagementSystem\PizzaManagementSystem\obj\Debug\PizzaManagementSystem.exe
+c:\users\raihan\documents\visual studio 2013\Projects\PizzaManagementSystem\PizzaManagementSystem\obj\Debug\PizzaManagementSystem.pdb
+C:\Users\Raihan\Documents\Visual Studio 2013\Projects\PizzaManagementSystem\PizzaManagementSystem\obj\Debug\PizzaManagementSystem.AllProduct.resources
